@@ -2,8 +2,9 @@
 
 npm install
 
-npm start
-frontend
-
-npm start
 backend
+npm start
+
+frontend
+npm start
+
