@@ -1,4 +1,4 @@
-# ticket-booking
+# ticket-booking-platform
 
 npm install
 
